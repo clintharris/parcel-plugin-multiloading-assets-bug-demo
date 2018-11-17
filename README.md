@@ -1,4 +1,4 @@
-This simplified Parcel plugin demonstrates a possible Parcel bug where assets seem to be loaded more than once (for more info see GitHub issue [#2294](https://github.com/parcel-bundler/parcel/issues/2294)).
+This simplified Parcel plugin demonstrates a possible Parcel bug where assets seem to be loaded more than once (for more info see issue [#2294](https://github.com/parcel-bundler/parcel/issues/2294)).
 
 Example:
 ```
